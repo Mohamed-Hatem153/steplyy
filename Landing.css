@@ -1,7 +1,7 @@
  .u-section-1 {
   background-position: 50% 50%, 50% 50%;
   background-repeat: no-repeat, no-repeat;
-  background-image: linear-gradient(to bottom, rgba(26, 26, 26, 0.55), rgba(26, 26, 26, 0.55)), url('images/businesspeople-meeting-indoors4-min.jpg');
+  background-image: linear-gradient(to bottom, rgba(26, 26, 26, 0.55), rgba(26, 26, 26, 0.55)), url('images/imgs/e18e0790-d15a-4a5e-be3c-458f95835a58.jpg');
   background-size: cover, cover;
 }
 
@@ -298,7 +298,7 @@
   min-height: 384px;
   background-position: 50% 0%;
   background-repeat: no-repeat;
-  background-image: url("images/46346.jpg");
+  background-image: url("images/imgs/1.jfif");
   background-size: cover;
   --animation-custom_in-translate_x: 300px;
   --animation-custom_in-translate_y: 0px;
@@ -315,7 +315,7 @@
   min-height: 393px;
   background-position: 50% 6.38%;
   background-repeat: no-repeat;
-  background-image: url("images/4365466.jpg");
+  background-image: url("images/imgs/2.jfif");
   background-size: cover;
 }
 
@@ -343,7 +343,7 @@
   min-height: 390px;
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  background-image: url("images/businessman-checking-document_10.jpg");
+  background-image: url("images/imgs/10.jfif");
   background-size: cover;
 }
 
@@ -355,7 +355,7 @@
   min-height: 395px;
   background-position: 50% 50%;
   background-repeat: no-repeat;
-  background-image: url("images/executives-analyzing-progress-co.jpg");
+  background-image: url("images/imgs/12.jfif");
   background-size: cover;
   --animation-custom_in-translate_x: -400px;
   --animation-custom_in-translate_y: 0px;
@@ -856,7 +856,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/group-confident-businesspeople-o.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/imgs/1.jfif');
   background-position: 50% 50%;
 }
 
@@ -880,7 +880,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/colleagues-office-holding-hands.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/imgs/10.jfif');
   background-position: 50% 50%;
 }
 
@@ -904,7 +904,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/business-executives-doing-video.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('images/imgs/14.jfif');
   background-position: 50% 50%;
 }
 
@@ -1498,7 +1498,7 @@
 }
 
 .u-section-7 .u-image-1 {
-  background-image: url("images/joyful-businessman-with-his-cowo.jpg");
+  background-image: url("images/imgs/4.jfif");
   background-size: cover;
   min-height: 338px;
   background-position: 50% 50%;
@@ -1516,7 +1516,7 @@
 
 .u-section-7 .u-image-2 {
   min-height: 338px;
-  background-image: url("images/businesswoman-showing-her-strate.jpg");
+  background-image: url("images/imgs/5.jfif");
   background-size: cover;
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 300px;
@@ -3155,7 +3155,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: url("images/pretty-smiling-woman-transperent.jpg");
+  background-image: url("images/imgs/c6f958322b95978b55f5f9886e565cda.jpg");
   background-position: 50% 0%;
   background-size: cover;
 }
